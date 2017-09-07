@@ -3,6 +3,8 @@
 
 ### 部分项目截图
 
+![](./img/index_capture1.png)
+
 ![](./img/index_capture.png)
 
 ![](./img/new_capture.png)
